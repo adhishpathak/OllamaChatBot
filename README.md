@@ -17,8 +17,8 @@ This project demonstrates a minimal AI chatbot solution that interacts with user
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/adhishpathak/OllamaChatBot.git
+   cd OllamaChatBot
 2. Install the required packages:
     ``` bash
     pip install requests python-dotenv
